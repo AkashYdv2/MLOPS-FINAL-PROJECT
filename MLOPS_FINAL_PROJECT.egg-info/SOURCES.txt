@@ -1,0 +1,13 @@
+setup.py
+MLOPS_FINAL_PROJECT.egg-info/PKG-INFO
+MLOPS_FINAL_PROJECT.egg-info/SOURCES.txt
+MLOPS_FINAL_PROJECT.egg-info/dependency_links.txt
+MLOPS_FINAL_PROJECT.egg-info/requires.txt
+MLOPS_FINAL_PROJECT.egg-info/top_level.txt
+config/__init__.py
+config/paths_config.py
+src/__init__.py
+src/custom_exception.py
+src/data_ingestion.py
+src/logger.py
+utils/__init__.py
